@@ -1,0 +1,8 @@
+Métrica,Valor
+Filas RAW,8782.0
+Filas CORE,8486.0
+Filas Quarantine,296.0
+% Quarantine,3.37
+Duplicados removidos,172.0
+Fechas inválidas,2.0
+% Mismatch days_since_signup,51.0
