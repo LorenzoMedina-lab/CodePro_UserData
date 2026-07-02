@@ -1,8 +1,9 @@
 Métrica,Valor
-Filas RAW,8782.0
-Filas CORE,8486.0
-Filas Quarantine,296.0
-% Quarantine,3.37
-Duplicados removidos,172.0
-Fechas inválidas,2.0
-% Mismatch days_since_signup,51.0
+Usuarios únicos,1984.0
+Posts analizados,8486.0
+Promedio de votos,6.9
+Mediana de votos,6.0
+Promedio de posts por usuario,4.28
+Porcentaje Quarantine,3.37
+Porcentaje de posts Top 1%,5.94
+Porcentaje de votos Top 1%,5.91
